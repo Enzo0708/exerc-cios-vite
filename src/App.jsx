@@ -22,13 +22,8 @@ function App(){
       <Header />
       <Exercicio1 />
       <Exercicio2 />
-      // exercício 4
       <ClienteGastos />
-      // exercício 5
-      <div>
-      <h2>Produtos Mais Caros que R$ 1500</h2>
       <ProdutosMaisCaros />
-  </div>
     </>
   )
 }
