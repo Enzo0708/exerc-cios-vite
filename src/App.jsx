@@ -13,8 +13,8 @@
 import Exercicio1 from './components/exc1';
 import Exercicio2 from './components/exc2';
 import Header from './components/exc3';
-import ClienteGastos from './components/exc4';
-import ProdutosMaisCaros from './components/exc5';
+import ClienteComponent from './components/exc4';
+import Produtos from './components/exc5';
 
 function App(){
   return(
@@ -22,8 +22,8 @@ function App(){
       <Header />
       <Exercicio1 />
       <Exercicio2 />
-      <ClienteGastos />
-      <ProdutosMaisCaros />
+      <ClienteComponent />
+      <Produtos />
     </>
   )
 }
